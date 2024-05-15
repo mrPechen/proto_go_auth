@@ -1,4 +1,4 @@
-module protos
+module github.com/mrPechen/proto_go_auth
 
 go 1.20
 
