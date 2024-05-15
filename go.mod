@@ -1,4 +1,4 @@
-module proto_go_auth
+module protos
 
 go 1.20
 
